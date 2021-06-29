@@ -1,0 +1,50 @@
+ 驱动器 E 中的卷是 新加卷
+ 卷的序列号是 FE0F-3D39
+
+ E:\dev\AI\TheAlgorithms\doc 的目录
+
+2021/06/24  11:29    <DIR>          .
+2021/06/24  11:29    <DIR>          ..
+2021/05/27  16:00             1,237 0_prepare.ipynb
+2021/06/15  14:53    <DIR>          arithmetic_analysis
+2021/06/16  14:00    <DIR>          backtracking
+2021/06/03  08:58    <DIR>          bit_manipulation
+2021/06/16  15:41    <DIR>          blockchain
+2021/06/16  15:49    <DIR>          boolean_algebra
+2021/06/17  10:37    <DIR>          cellular_automata
+2021/06/24  09:23    <DIR>          ciphers
+2021/05/27  13:35    <DIR>          compression
+2021/05/27  13:35    <DIR>          computer_vision
+2021/05/27  13:35    <DIR>          conversions
+2021/05/27  13:35    <DIR>          data_structures
+2021/05/27  13:35    <DIR>          digital_image_processing
+2021/05/27  13:35    <DIR>          divide_and_conquer
+2021/05/27  13:35    <DIR>          dynamic_programming
+2021/05/27  13:35    <DIR>          electronics
+2021/05/27  13:35    <DIR>          file_transfer
+2021/05/27  13:35    <DIR>          fractals
+2021/05/31  15:36    <DIR>          fuzzy_logic
+2021/05/27  13:35    <DIR>          geodesy
+2021/05/27  13:35    <DIR>          graphics
+2021/05/27  13:35    <DIR>          graphs
+2021/05/27  13:35    <DIR>          hashes
+2021/05/27  13:35    <DIR>          knapsack
+2021/05/27  13:35    <DIR>          linear_algebra
+2021/06/24  11:29                 0 list.txt
+2021/05/27  13:35    <DIR>          machine_learning
+2021/05/27  13:35    <DIR>          maths
+2021/05/27  13:35    <DIR>          matrix
+2021/05/27  13:35    <DIR>          networking_flow
+2021/05/27  13:35    <DIR>          neural_network
+2021/05/27  13:35    <DIR>          other
+2021/05/27  13:35    <DIR>          physics
+2021/05/27  13:35    <DIR>          project_euler
+2021/05/27  13:35    <DIR>          quantum
+2021/05/27  13:35    <DIR>          scheduling
+2021/05/27  13:35    <DIR>          scripts
+2021/05/27  13:35    <DIR>          searches
+2021/05/27  13:35    <DIR>          sorts
+2021/05/27  13:35    <DIR>          strings
+2021/05/27  13:36    <DIR>          web_programming
+               2 个文件          1,237 字节
+              41 个目录 191,885,578,240 可用字节
